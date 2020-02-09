@@ -1,2 +1,2 @@
 # Adsis
-my final project Using Docker
+my final project deploy Rocket Chat using Docker Compose
